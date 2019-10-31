@@ -739,7 +739,37 @@ MD5sum: 58516b285134b52c8e5ab0ad6cf9a393
 SHA1: 5f9be5b75a4f1c2281b3d644c5fc08662968b7bc
 SHA256: 3411328e9a1272415805ab6ecde0b00aee2561b2576989b60ed0851dae8c45e4
 
+Name: Mystic Glyphs
+Package: minhhi.MysticGlyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.MysticGlyphs
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.MysticGlyphs
+Filename: ./debs/minhhi.MysticGlyphs_1.0_iphoneos-arm.deb
+Size: 4017772
+MD5sum: 642d841da7a311498cb39bc38778bb39
+SHA1: da8466b845102ffc0aff9c368e1806f02b942632
+SHA256: 304775261050cfe52e9f8da470a53907c77b302d944b03bb2742f67b148383a1
 
+Name: Raspberry
+Package: minhhi.Raspberry
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.Raspberry
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.Raspberry
+Filename: ./debs/minhhi.Raspberry_1.0_iphoneos-arm.deb
+Size: 15625360
+MD5sum: ec067e6f907051b3de18e5dba3c17bbb
+SHA1: 7f10bf98038160925b8f7af3f284747cbec83493
+SHA256: 7b825363f2c06f61f2adcf5d455396a59f9ccb9ab07e5ca722d3ec656de2f296
 
 
 
